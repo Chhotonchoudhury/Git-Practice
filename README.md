@@ -10,3 +10,6 @@ The learning pattern are describe below
 > * Take a task for that topic 
 > * Then clear that task 
 > * Repeat that cycle 
+-------------------------
+
+> So let's start that journy with this repo for both fun & learning
