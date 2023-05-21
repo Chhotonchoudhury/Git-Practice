@@ -1,6 +1,6 @@
 Before start we assume that you already download and set up Git in you machine 
 
-(git.png)
+![Git & Github](/git.png)
 
 > Version control is a system that helps you manage changes to your files over time. It allows you to track modifications, revert to previous versions, and collaborate with others seamlessly.
 
@@ -24,9 +24,9 @@ To get started with Git, you need to initialize a repository, make commits to sa
 Let's do our first task :
 
 - [x] Create a new directory on your local machine and initialize it as a Git repository using the command: git init.
-- [ ] Add a file to the repository, make some changes, and commit the changes using git add <file> and git comm--it -m "Commit message".
-- [ ]  Explore Git commands like git log, git status, and git diff to view the commit history, status, and differences in your repository.
-- [ ] Congratulations for all tasks are complete :tada:
+- [x] Add a file to the repository, make some changes, and commit the changes using git add <file> and git comm--it -m "Commit message".
+- [x]  Explore Git commands like git log, git status, and git diff to view the commit history, status, and differences in your repository.
+- [x] Congratulations for all tasks are complete :tada:
 
 >Remember, version control is a powerful tool that helps you manage your project's history and collaborate effectively. It's an essential skill for software development and other collaborative workflows.
 
