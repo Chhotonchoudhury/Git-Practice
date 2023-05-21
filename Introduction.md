@@ -1,6 +1,6 @@
 Before start we assume that you already download and set up Git in you machine 
 
-![Git & Github](/asset/logo.png)
+![Git & Github](/logo.png)
 
 > Version control is a system that helps you manage changes to your files over time. It allows you to track modifications, revert to previous versions, and collaborate with others seamlessly.
 
